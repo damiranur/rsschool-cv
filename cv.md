@@ -11,7 +11,7 @@
 
 With over five years of experience as a project manager, I’ve developed strong skills in organizing, managing, and successfully delivering complex projects. This experience has equipped me with valuable leadership qualities, planning abilities, and problem-solving skills, which I now apply in my current role as a QA engineer. In QA, I leverage my attention to detail and in-depth understanding of workflows to ensure high-quality, functional products.
 
-Recently, I’ve become interested in web development. I’m drawn to the dynamic and innovative nature of web technologies, along with the opportunity to create interactive, user-centered applications. I enjoy the combination of technical problem-solving and creativity, and I believe my experience in project management and QA will be a valuable asset as I explore this field further.
+I’ve become interested in web development. I’m drawn to the dynamic and innovative nature of web technologies, along with the opportunity to create interactive, user-centered applications. I enjoy the combination of technical problem-solving and creativity, and I believe my experience in project management and QA will be a valuable asset as I explore this field further.
 
 ### Education:
 
@@ -23,7 +23,6 @@ Recently, I’ve become interested in web development. I’m drawn to the dynami
 - HTML
 - CSS
 - JavaScript (basic)
-- TypeScript (basic)
 - Git/GitHub
 - Adobe Photoshop, Illustrator, Figma
 
